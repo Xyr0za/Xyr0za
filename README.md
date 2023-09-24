@@ -19,4 +19,4 @@ Languages
 
 Website
 ----------
-[My Website](https://euanbaldw.in)
+[https://euanbaldw.in](https://euanbaldw.in)
