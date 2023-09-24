@@ -1,6 +1,12 @@
+Hi there, I make python projects in my spare time and plan on eventually becoming a data scientist / software engineer.
 
+Languages 
+----------
+~ Python
+~ CSS
+~ JS
+~ Ruby
+~ Lua
+~ C
 
-<!---
-Xyr0za/Xyr0za is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[My Website](https://euanbaldw.in)
