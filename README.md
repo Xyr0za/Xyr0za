@@ -3,10 +3,18 @@ Hi there, I make python projects in my spare time and plan on eventually becomin
 Languages 
 ----------
 ~ Python
+
 ~ CSS
+
 ~ JS
+
 ~ Ruby
+
 ~ Lua
+
 ~ C
 
+
+Website
+----------
 [My Website](https://euanbaldw.in)
