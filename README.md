@@ -4,9 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://euanbaldw.in](https://euanbaldw.in)
 
-- 💬 Ask me about **python.**
-
-- 📫 How to reach me **eb@euanbaldw.in**
+- 📫 Reach me at **eb@euanbaldw.in**
 
 <p align="left">
 </p>
