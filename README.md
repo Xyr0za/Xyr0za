@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **python.**
 
-- 📫 How to reach me [email](mailto: eb@euanbaldw.in)
+- 📫 How to reach me **eb@euanbaldw.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
