@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Euan</h1>
 <h1 align="center">15yo</h1>
-- 🌱 I’m currently learning **Tensor Flow / Keras**
+- 🌱 I’m currently learning Tensor Flow / Keras
 
 - 👨‍💻 All of my projects are available at [https://euanbaldw.in](https://euanbaldw.in)
 
