@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Tensor Flow / Keras**
 
-- 👨‍💻 All of my projects are available at **[https://euanbaldw.in](https://euanbaldw.in)**
-
 - 📫 Reach me at **contact@euanbaldw.in**
 
 <p align="left">
