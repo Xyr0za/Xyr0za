@@ -1,15 +1,19 @@
 # 16yo
 
-# My languages
+## My languages
 
 * Python
 * Ruby
 
-# What I'm learning
+## What I'm learning
 
 * Flask 
 * TensorFlow / Keras
 
-# Web projects
+## Currently Reading
+
+The Selfish Gene - Richard Dawkins
+
+## Web projects
 
 [https://euanbaldw.in](https://euanbaldw.in) <-- Current School Project
