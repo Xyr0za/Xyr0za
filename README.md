@@ -7,8 +7,8 @@
 
 ## What I'm learning
 
-* Flask 
 * TensorFlow / Keras
+* APL
 
 ## Currently Reading
 
