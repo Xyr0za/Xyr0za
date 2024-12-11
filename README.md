@@ -1,5 +1,7 @@
 # 16yo
 
+{(+/⍵)÷⍴⍵}
+
 ## My languages
 
 * Python
