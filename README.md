@@ -6,6 +6,7 @@
 
 * Python
 * Ruby
+* A very small amount of rust
 
 ## What I'm learning
 
