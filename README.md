@@ -6,7 +6,13 @@
 
 * Python
 * Ruby
-* A very small amount of rust
+* Rust
+
+## My libraries / tools
+
+* Flask
+* Numpy
+* Marginal Experience with SQLite. 
 
 ## What I'm learning
 
