@@ -1,28 +1,9 @@
 # 17yo
 
-{(+/⍵)÷⍴⍵}
+Informal Geneticist
 
 ## My languages
 
 * Python
-* Ruby
+* Haskell
 * Rust
-
-## My libraries / tools
-
-* Flask
-* Numpy
-* Marginal Experience with SQLite. 
-
-## What I'm learning
-
-* TensorFlow / Keras
-* APL
-
-## Currently Reading
-
-n/a
-
-## Web projects
-
-[https://euanbaldw.in](https://euanbaldw.in) <-- Current School Project
