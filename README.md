@@ -1,7 +1,8 @@
 # 17yo
 
 Registered RSB Bionet member
-Informal Geneticist
+
+Informal Aspiring Geneticist
 
 ## My languages
 
