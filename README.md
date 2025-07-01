@@ -1,8 +1,7 @@
 # 17yo
 
-Registered RSB Bionet member
-
-Informal Aspiring Geneticist
+RSB Bionet
+~10 Years Experience
 
 ## My languages
 
