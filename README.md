@@ -4,10 +4,6 @@
 
 ### Computer Science and Artificial Intelligence | University of Sussex
 
----
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/393518f4-760f-436d-aa8e-fcde86e8a0c1/deploy-status)](https://app.netlify.com/projects/gorgeous-cassata-678535/deploys)
-[![CodeWars](https://www.codewars.com/users/Xyr0za/badges/micro)](https://www.codewars.com/users/Xyr0za)
 
 </div>
 
@@ -43,3 +39,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white)
+
+---
+
+<div align="center">
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/393518f4-760f-436d-aa8e-fcde86e8a0c1/deploy-status)](https://app.netlify.com/projects/gorgeous-cassata-678535/deploys)
+[![CodeWars](https://www.codewars.com/users/Xyr0za/badges/micro)](https://www.codewars.com/users/Xyr0za)
+
+</div>
