@@ -4,8 +4,7 @@
 
 ### Computer Science and Artificial Intelligence at the University of Sussex
 
-
-</div>
+I use vim btw
 
 ---
 
@@ -17,7 +16,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -33,7 +31,6 @@
 
 ### Tools and Technologies
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -41,10 +38,9 @@
 ![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
-
-<div align="center">
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/393518f4-760f-436d-aa8e-fcde86e8a0c1/deploy-status)](https://app.netlify.com/projects/gorgeous-cassata-678535/deploys)
 [![CodeWars](https://www.codewars.com/users/Xyr0za/badges/micro)](https://www.codewars.com/users/Xyr0za)
