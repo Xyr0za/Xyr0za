@@ -4,7 +4,7 @@
 
 ### Computer Science and Artificial Intelligence at the University of Sussex
 
-I use vim btw
+*I use vim btw*
 
 ---
 
