@@ -2,7 +2,7 @@
 
 # Xyr0za
 
-### Computer Science and Artificial Intelligence | University of Sussex
+### Computer Science and Artificial Intelligence at the University of Sussex
 
 
 </div>
